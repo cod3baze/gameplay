@@ -19,6 +19,10 @@ function SignIn() {
           Crie grupos para jogar seus games {`\n`} favoritos com seus amigos
         </Text>
       </View>
+
+      <View>
+        <Text>Discord</Text>
+      </View>
     </View>
   );
 }
